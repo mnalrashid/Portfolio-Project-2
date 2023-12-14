@@ -24,7 +24,7 @@ To play the game, open the index.html file in a web browser. Enter your guesses 
 Clone the repository to your local machine:
 bash
 Copy code
-git clone https://github.com/mnalrashid/Portfolio-Project-2/.git
+git clone [https://github.com/mnalrashid/Portfolio-Project-2/.git](https://github.com/mnalrashid/Portfolio-Project-2.git)
 Open the index.html file in a web browser.
 
 Start guessing numbers and enjoy the game!
